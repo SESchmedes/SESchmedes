@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarah Schmedes!
-- 👀 I’m interested in all things public health bioinformatics!
+- 👀 I’m interested in public health bioinformatics!
 - 🌱 I’m currently learning Nextflow and SQL.
 - 💞️ I’m looking to collaborate on public health bioinformatics tools and workflows for the investigation of infectious diseases.
 - 📫 How to reach me: Sarah.Schmedes@flhealth.gov
